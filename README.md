@@ -1,2 +1,2 @@
 # Spr-VLTK1
-Nén và giaỉ nén tệp Spr trong Game Võ Lâm Truyền Kỳ 1
+Nén và giaỉ nén tệp Spr trong Game Võ Lâm Truyền Kỳ 1, Võ Lâm Truyền Kỳ 2, Kiếm Thế , Chinh Đồ, ...
